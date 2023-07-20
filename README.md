@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bablu-k
+- 👋 Hi, I’m @Bablu-kumar
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently pursuing B-Tech CSE(3rd year) 
 - 📫 How to reach me📧 mail on "kushwahabablu40@gmail.com"
